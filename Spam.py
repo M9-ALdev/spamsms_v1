@@ -20,7 +20,7 @@ print(" ")
 nama = input(bcolors.WHITE + "      masukan nama anda :")
 
 os.system('clear')
-#os.system('xdg-open https://add.spamsms.42web.io/?nama='+nama)
+os.system('xdg-open https://add.spamsms.42web.io/?nama='+nama)
 time.sleep(2)
 print(logo)
 ## Menginput No Target
